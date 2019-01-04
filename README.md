@@ -7,4 +7,4 @@ Dataset used is for restaurant reviews of cuctomers.More details are available i
 
 *Coded in python 3.6.4 , IDE: Anaconda3-5.1.0* 
 
-*This work was done a course work for my AI class 2018*
+*This work was done as course work for my AI class 2018*
